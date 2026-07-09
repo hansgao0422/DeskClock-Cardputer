@@ -4,6 +4,7 @@
 ## 1. 程序简介
 
 `DeskClock 0.1.02` 是一个运行在 `Cardputer ADV` 上的桌面信息面板程序，适用于日常值守、无线电通联辅助和时间天气信息查看。
+<img width="4096" height="3072" alt="微信图片_20260709084930_572_307" src="https://github.com/user-attachments/assets/6e53b6da-139a-419f-8ffb-c21147544028" />
 
 程序基于 `UIFlow2` / MicroPython 运行，主要提供以下能力：
 
