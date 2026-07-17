@@ -1,5 +1,5 @@
+<img width="1200" height="420" alt="deskclock-cardputer-hero" src="https://github.com/user-attachments/assets/b5c387ef-6df5-4d56-b121-2369fea6f1f0" />
 
-<img width="4096" height="3072" alt="微信图片_20260709084930_572_307" src="https://github.com/user-attachments/assets/6e53b6da-139a-419f-8ffb-c21147544028" />
 
 # DeskClock for Cardputer ADV
 
@@ -123,6 +123,8 @@
 - `Offline`：网络未连接
 - `BATxx%`：当前电量
 - `BL 100% / 75% / 50% / 25%`：亮度档位
+
+<img width="4096" height="3072" alt="微信图片_20260709084930_572_307" src="https://github.com/user-attachments/assets/6e53b6da-139a-419f-8ffb-c21147544028" />
 
 ## 目录与主要文件
 
